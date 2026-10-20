@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+# Model artifacts can be large or contain project-specific training outputs.
+# Uncomment these if your team wants to keep model files out of Git:
+# models/*.joblib
